@@ -7,11 +7,6 @@
 # Scales:              0.014016579363674106  0.014025724473477613
 # Canonical fiducial:  19
 # Arguments:           -mjd 52453 -az -y pos1 -canon -reset -scale -x time -time0 1025273784 -time1 1025276324 -table az.table
-#
-# ************************************************************
-# I added fiducial 19 by hand as the mean of 18 and 20  since there
-# were no points for this fiducial
-# ************************************************************
 # Fiducial Encoder1 +- error  npoint  Encoder2 +- error  npoint
 1         -30687120 +-  62.9   6     -30646706 +- 106.1   6
 2         -26828183 +-  66.7   6     -26790250 +- 101.3   6
