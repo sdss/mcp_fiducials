@@ -2,9 +2,9 @@
 # altitude fiducials
 #
 # Creator:             rhl
-# Time:                Mon Nov 05 08:14:51 MST 2001
+# Time:                Thu Nov 08 12:30:40 MST 2001
 # Input file:          /mcptpm/52218/mcpFiducials-52218.dat
-# Scales:              -19266342.833333332  -19253745.666666664
+# Scales:              -5.1903986586902586e-08  -5.1937945858050104e-08
 # Canonical fiducial:  1
 # Arguments:           -mjd 52218 -alt -y pos1 -time0 1004915500 -time1 1004916300 -canon -reset -table alt.dat -scale
 #
