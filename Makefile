@@ -1,5 +1,4 @@
 SHELL = /bin/sh
-SVNURL = "$HeadURL$"
 
 all :;
 
