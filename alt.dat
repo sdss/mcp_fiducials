@@ -1,19 +1,19 @@
 #
 # altitude fiducials
 #
-# $Name: v1_93 $
+# $Name: v1_94 $
 #
 # Creator:             snedden
-# Time:                2011-04-20 01:23:11Z
-# Input file:          /mcptpm/55670/mcpFiducials-55670.dat
-# Scales:              -5.2902028502713613e-08  -5.293818530741782e-08
+# Time:                2011-05-16 23:08:14Z
+# Input file:          /mcptpm/55694/mcpFiducials-55694.dat
+# Scales:              -5.2901755105154764e-08  -5.293716009711216e-08
 # Canonical fiducial:  1
-# Arguments:           -alt -x fididx -y pos1 -mjd 55670 -time0 1303224361 -time1 1303225107 -scale -canon -table alt.dat
+# Arguments:           -alt -x fididx -y pos1 -mjd 55694 -canon -time0 1305301502 -time1 1305302372 -scale -table alt.dat
 #
 # Fiducial Encoder1 +- error  npoint  Encoder2 +- error  npoint
-1           3924917 +-  40.6   6       3924917 +-  50.3   6
-2           7531700 +-  34.2   6       7529250 +-  37.7   6
-3                 0 +- -9999.0   0             0 +- -9999.0   0
-4          15533330 +-  54.8   6      15525427 +-  77.6   6
-5          19418852 +-  51.1   6      19408293 +-  77.0   6
-6          22827784 +-  29.4   6      22814873 +-  55.9   6
+1           3924917 +-  47.7   6       3924917 +-  70.6   6
+2           7531665 +-  53.4   6       7529251 +-  77.5   6
+3          11869365 +-  50.8   7      11864105 +-  77.6   7
+4          15533268 +-  63.7   7      15525578 +-  87.0   7
+5          19418900 +-  61.4   7      19408598 +-  92.6   7
+6          22827882 +-  33.2   7      22815239 +-  80.3   7
