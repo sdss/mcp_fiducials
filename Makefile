@@ -19,6 +19,7 @@ install : all
 	    if [ ! -d $(MCP_FIDUCIALS_DIR) ]; then \
 		mkdir $(MCP_FIDUCIALS_DIR); \
 		cp Makefile alt.dat az.dat rot.dat $(MCP_FIDUCIALS_DIR); \
+		cp -r ups $(MCP_FIDUCIALS_DIR); \
 	    else \
 		echo NOT copying fiducial files into the existing $(MCP_FIDUCIALS_DIR); \
 	    fi; \
