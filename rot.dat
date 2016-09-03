@@ -1,11 +1,11 @@
 #
 # rotator fiducials
 #
-# $Name: v1_119 $
+# $Name: 1_120 $
 #
 # Creator:             observer
-# Time:                2015-11-24 22:16:48Z
-# Input file:          mcpFiducials-57349.dat
+# Time:                2016-09-03 02:05:51Z
+# Input file:          ~/mcptpm/57349/mcpFiducials-57349.dat
 # Scales:              0.021315769920733581  75.914315138361644
 # Canonical fiducial:  75
 # Arguments:           -dir ~/mcptpm/57349 -mjd 57349 -rot -y pos1 -time0 1448294666 -time1 1448296939 -canon -setCanon 75 -reset -scale -table rot.dat
