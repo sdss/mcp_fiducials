@@ -34,7 +34,7 @@ proc ModulesHelp { } {
 
 }
 
-set product fiducial_tables
+set product mcp_fiducials
 set version v1_150
 
 set PRODUCT_DIR /home/mcp/sdss/$product/$version
