@@ -1,4 +1,4 @@
-# fiducial_tables
+# mcp_fiducial
 
 APO Sloan 2.5m telescope fiducial tables
 
