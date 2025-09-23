@@ -1,4 +1,4 @@
-# fiducial_tables
+# mcp_fiducial
 
 APO Sloan 2.5m telescope fiducial tables
 
@@ -34,7 +34,7 @@ proc ModulesHelp { } {
 
 }
 
-set product fiducial_tables
+set product mcp_fiducials
 set version v1_150
 
 set PRODUCT_DIR /home/mcp/sdss/$product/$version
