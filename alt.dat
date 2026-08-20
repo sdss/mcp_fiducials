@@ -1,19 +1,19 @@
 #
 # altitude fiducials
 #
-# $Name: v1_153 $
+# $Name: v1_154 $
 #
 # Creator:             observer
-# Time:                2026-01-30 17:18:31Z
-# Input file:          mcpFiducials-61070.dat
-# Scales:              -5.2899429640994582e-08  -5.2931236140121234e-08
+# Time:                2026-08-17 16:17:06Z
+# Input file:          mcpFiducials-61269.dat
+# Scales:              -5.2898860369522376e-08  -5.2930662074788229e-08
 # Canonical fiducial:  1
-# Arguments:           -dir /home/observer/mcptpm/61070 -mjd 61070 -altitude -time0 1769751130 -time1 1769751752 -canon -reset -scale -table alt.dat
+# Arguments:           -dir /home/observer/mcptpm/61269 -mjd 61269 -altitude -time0 1786955740 -time1 1786956455 -canon -reset -scale -table alt.dat
 #
 # Fiducial Encoder1 +-   error  npoint  Encoder2 +-   error  npoint
-1          3924917 +-   123.9   6       3924917 +-   132.7   6 
-2          7538745 +-     8.6   6       7536569 +-     8.1   6 
-3         11867273 +-     7.9   7      11862508 +-     6.5   7 
-4         15529742 +-     0.0   7      15522790 +-     0.0   7 
-5         19421749 +-    13.6   6      19412463 +-    14.3   6 
-6         22828712 +-    43.5   6      22817353 +-    45.5   6 
+1          3924917 +-    31.0   5       3924917 +-    28.3   5 
+2          7538953 +-    13.1   4       7536825 +-    37.0   4 
+3         11867435 +-    54.0   6      11862700 +-    67.9   6 
+4         15529953 +-     0.0   5      15523060 +-     0.0   5 
+5         19421864 +-    55.1   6      19412630 +-    56.6   6 
+6         22828916 +-    52.4   6      22817558 +-    52.5   6 
